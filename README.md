@@ -120,9 +120,6 @@ Caso contrário, será considerado andando.
 ## Observações
 
 - A pasta `simulacoes_animais` será criada automaticamente.
-- O sistema é útil para análise comportamental, zootecnia ou monitoramento automatizado de rebanhos.
-- Pode ser integrado com sistemas reais de detecção via câmeras no futuro.
 
-## Autor
 
-Desenvolvido para fins de simulação e monitoramento comportamental com múltiplas câmeras e processamento contínuo.
+
